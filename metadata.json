@@ -1,0 +1,5 @@
+{
+  "name": "AIA Design&Build App",
+  "description": "An application with tools to enhance images and generate realistic architectural photos from sketches using the Gemini API.",
+  "requestFramePermissions": []
+}
